@@ -1,0 +1,25 @@
+The compiler compared each word from game_old.js with game_new.js. If it finds difference between the texts in two files it stores it and after the compilation is done, it publishes the result on the terminal screen.
+
+In the longer term, I will require to use and see the changes I had made in my code. Also, if due to some errors my new version doesn't works perfectly then I can switch to older version with perrfect functionality.
+
+Pro's of manually choosing when to create a commit:
+    - You can save your work at your will.
+Con's :
+    - The judgement depends from person to person. Creating commits too often is not favorable whereas creating commits after a long duration is also not favorable.
+
+Pro's of automatic saving:
+    - All changes are saved automatically. So, no fear of losing changes.
+Con's :
+    - Log becomes large. It becomes difficult to understand history.
+
+Git and some other VCS's, allow saving multiple files in one commit, because using VCS's we can make changes in more than one file. And all these files together constitute the working of application.
+
+Q. How can you use the commands git log ans git diff to view the history of files?
+A. git log will give me the previous committ information.
+   git diff will show differences in the committs. So, using these commands we can know about the past commands exectued and replaced by user and hence know about history of commands.
+
+   Q. How might using version control make you more confident to make changes that could break something?
+   A. Because there is surity that I can get back to normal working condition anytime and hence I can experiment to include new things which are not confirmed to obtained desired results.
+
+   Q. What do you want to try using GIT for?
+   A. I want to use Git for commting changes to the repo's downloaded from github and solve the issues related to them.
