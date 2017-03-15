@@ -1,0 +1,5 @@
+Q. What happens when you initialize a repository? Why do you need to do it?
+A. Initializing a repository creates a folder in that directory which can be used by others too to access it and make a copy of it in their system for making further changes. This will help in version control. It creates a snapshot of the current directory.
+
+Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
+A. Staging area holds selectively those files which are needed in the repository. Thses files are selected from working directory. It is significant in providing only those files which are really needed to be changed. There are some files which do not need any changes and they can be stored in working directory and not in staging area.
