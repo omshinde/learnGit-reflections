@@ -1,0 +1,3 @@
+Q. When would you want to use a remote repository rather than keeping all your work local?
+A. A remote repository would be better to use when there are more than 1 person working on the same project. Each person can
+push their local changes to remote repository. Other's can access this repository directly for getting the changes updated by that person.
